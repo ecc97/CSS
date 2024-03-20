@@ -3,3 +3,22 @@ h1 {
     text-transform: capitalize; 
     font-size: 80px;
 }
+
+#primer-titulo{
+    color: #7af0f2;
+}
+
+#primer-parrafo {
+    color: #58CC02
+}
+
+.titulo {
+    color: #ffc800;
+}
+
+.parrafo {
+    color: #e5a259;
+}
+
+
+
